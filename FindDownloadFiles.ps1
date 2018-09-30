@@ -10,4 +10,6 @@ $ODFBFileList =
 
 $ODFBusage
 
-GitTest
+<# NOTES
+FANTASTIC! Several ODFB Scripts suitable for automation https://github.com/nickrod518/PowerShell-Scripts/blob/master/MSO/OneDrive.psm1
+#>
